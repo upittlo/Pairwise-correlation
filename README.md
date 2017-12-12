@@ -1,3 +1,3 @@
 # Pairwise-correlation
 
-test1234
+Function for calculating pairwise correlation
